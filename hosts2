@@ -1,0 +1,103 @@
+# Title: StevenBlack/hosts
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 21 December 2021 02:43:31 (UTC)
+# Number of unique domains: 99,459
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# Project home page: https://github.com/StevenBlack/hosts
+# Project releases: https://github.com/StevenBlack/hosts/releases
+#
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start StevenBlack
+
+#=====================================
+# Title: Hosts contributed by Steven Black
+# http://stevenblack.com
+0.0.0.0 gogoanime.io
+0.0.0.0 crunchyroll.com
+0.0.0.0 kissanime.ru
+0.0.0.0 animefreak.tv
+0.0.0.0 animedao.com
+0.0.0.0 chia-anime.tv
+0.0.0.0 hulu.com
+0.0.0.0 animevost.club
+0.0.0.0 yummyanime.club
+0.0.0.0 shikimori.one
+0.0.0.0 animedub.ru
+0.0.0.0 animebest.org
+0.0.0.0 smotret-anime.ru
+0.0.0.0 animevost.org
+0.0.0.0 shikimori.org
+0.0.0.0 animanga.ru
+0.0.0.0 animesuki.com
+0.0.0.0 aumi.ru
+0.0.0.0 animesekai.ru
+0.0.0.0 anime24.ru
+0.0.0.0 manga24.ru
+0.0.0.0 tfile.ru
+0.0.0.0 online.anidub.com
+0.0.0.0 animelend.info
+0.0.0.0 wakanim.tv
+0.0.0.0 online.animedia.tv
+0.0.0.0 findanime.net
+0.0.0.0 anime.anidub.life
+0.0.0.0 animego.org
+0.0.0.0 animevost.am
+0.0.0.0 animeteatr.tv
+0.0.0.0 animespirit.ru
+0.0.0.0 animevost.in
+0.0.0.0 big-anime.ru
+0.0.0.0 adultmult.tv
+0.0.0.0 yandere.tv
+0.0.0.0 fanfiction.net
+0.0.0.0 ficbook.net
+0.0.0.0 mangalib.me
+0.0.0.0 ranobelib.me
+0.0.0.0 anixart.tv
+0.0.0.0 ranobehub.org
+0.0.0.0 readmanga.live
+0.0.0.0 mangahub.ru
+0.0.0.0 k-pop.ru
+0.0.0.0 mangavost.org
+0.0.0.0 fandom.com
+0.0.0.0 mihoyo.com
+0.0.0.0 samlib.ru
+0.0.0.0 rulate.ru
+0.0.0.0 spys.one
+0.0.0.0 author.today
+0.0.0.0 dark-novels.ru
+0.0.0.0 hentai-chan.pro
+
+# End yoyo.org
+
+# blacklist
+#
+# The contents of this file (containing a listing of additional domains in
+# 'hosts' file format) are appended to the unified hosts file during the
+# update process. For example, uncomment the following line to block
+# 'example.com':
+
+# 0.0.0.0 example.com
